@@ -18,7 +18,8 @@ El valor de la distancia (numero flotante) que existe entre los dos puntos. Desp
 
 Ejemplo 1 
 
-```>>> dist2pts(2,-4,5,3)
+```
+>>> dist2pts(2,-4,5,3)
 distancia= 7.62
 >>>
 ```
